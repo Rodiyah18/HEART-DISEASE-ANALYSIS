@@ -118,6 +118,11 @@ This project represents a practical application of Excel in healthcare data anal
 
 I look forward to applying these skills to more complex analytical projects using tools such as Power BI, SQL and Python.
 
+## Dashoard preview
+
+![Heart Disease Analysis Dasyboard]
+(Annotation 2026-10-26 152015.png)
+
 
 ## 📌 Project Status
 
