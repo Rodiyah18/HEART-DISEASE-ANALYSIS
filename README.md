@@ -118,11 +118,6 @@ This project represents a practical application of Excel in healthcare data anal
 
 I look forward to applying these skills to more complex analytical projects using tools such as Power BI, SQL and Python.
 
-## 📷 Dashboard Preview
-
-<!-- Upload your dashboard screenshot to this repository and replace the filename below. -->
-
-![Heart Disease Analysis Dashboard](dashboard-preview.png)
 
 ## 📌 Project Status
 
