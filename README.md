@@ -121,7 +121,8 @@ I look forward to applying these skills to more complex analytical projects usin
 ## Dashoard preview
 
 ![Heart Disease Analysis Dasyboard]
-(Annotation 2026-10-26 152015.png)
+(<img width="1772" height="825" alt="Annotation 2026-10-23 152015" src="https://github.com/user-attachments/assets/2152fdce-20d3-4b0f-a4de-4a477f9ee886" />
+)
 
 
 ## 📌 Project Status
