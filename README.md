@@ -119,10 +119,8 @@ This project represents a practical application of Excel in healthcare data anal
 I look forward to applying these skills to more complex analytical projects using tools such as Power BI, SQL and Python.
 
 ## Dashoard preview
+<img width="1772" height="825" alt="Annotation 2026-10-23 152015" src="https://github.com/user-attachments/assets/2152fdce-20d3-4b0f-a4de-4a477f9ee886" />
 
-
-(<img width="1772" height="825" alt="Annotation 2026-10-23 152015" src="https://github.com/user-attachments/assets/2152fdce-20d3-4b0f-a4de-4a477f9ee886" />
-)
 
 
 ## 📌 Project Status
